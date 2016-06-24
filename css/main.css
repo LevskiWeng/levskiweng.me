@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(100, 100, 100, 0.1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#title {
+    font-family: Montserrat,sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 50px;
+    margin: 0;
+    position: relative;
+    top: 10px;
+    z-index: 2;
+}
+
+#subtitle {
+    font-family: Arvo;
+    font-size: 16px;
+    line-height: 150%;
+    margin-left: 140px;
+    margin-top: 15px;
+}
