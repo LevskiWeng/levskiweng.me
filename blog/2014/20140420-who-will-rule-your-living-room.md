@@ -1,0 +1,7 @@
+# Who will rule your living room ?
+
+Well, **smart** is a hot word today, we make phone calls with smart phones, live in smart houses, go to work with the Benz smart. It seems that the world will be occupied by smart devices. TV, as a familiar daily-used device with a big screen, we found that it could play a key role in our lives especially when we’re at home, and many TV manufacturers discover the opportunities and they quickly release some smart TV models, it looks like that the television is being re-invented, the power of smart is shinning on it. The TV manufacturers are doing their best to win the turf war in our house.
+
+As a content consumer, what I want is watching my favorite TV shows and films with ease. I’m tired of looking for good films by switching channels over and over again. And It’s frustrating that I can’t resume the film on TV that I watched on my phone on my way home. I don’t think that the traditional TV manufacturers could solve the problem perfectly because they don’t produce the TV shows, films or news.
+
+Apple, alone with Google, are trying to persuade the consumers to accept an additional smart STB, but the biggest disadvantages of the STB is that it could never be always accessible. I think the best solution with nowadays technology is to emphasize the role of the mobile phone, it could be a good controller that be the core tool of our daily work and personal lives.

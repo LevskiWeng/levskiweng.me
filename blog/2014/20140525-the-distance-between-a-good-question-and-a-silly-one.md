@@ -1,0 +1,9 @@
+# The distance between a good question and a silly one
+
+A great advantage that we human beings have over other species on earth is that we have a ability to give solutions to many problem by a method called Q&A, and our modern civilization comes from such ability. However, the achievement of the evolution depends on whether we could throw out good questions or not.
+
+In Mainland of China, there are several famous [knowledge market](http://en.wikipedia.org/wiki/Knowledge_market) websites such as [zhidao.baidu.com](http://zhidao.baidu.com), [zhihu.com](http://www.zhihu.com). People post their questions, and share their knowledge on those sites. When the site becomes famous, more people join in and more knowledge is shared, and finally it’ll be more famous. The circle seems unbeatable, but the true is, while people joining in, the negative effect of growth of site population appears gradually. It’s called “Bad money drives out good“. More and more questions being asked are tagged ‘silly’, and people who were willing to answer questions lose their passion from then on.
+
+No one wants to be judged silly, but why they make silly question? I think the answer lies on the procedure of thinking. If something happens like a mystery to us, a question is raised in our head. But if you ask this question to others now, it’ll be a silly question to the experts. And a good question is produced only after you have already tried to answer it by yourself.
+
+People are more likely to help those guys who treat their own questions seriously, exports are willing to give professional advices to them because experts think they deserve the suggestions. They’re not paid for the answer, so if you do need professional advices, please show your respect to the potential answerers by asking your question seriously first.

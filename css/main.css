@@ -23,3 +23,24 @@ body {
     margin-left: 140px;
     margin-top: 15px;
 }
+.panel-mydefault {
+    background-color: transparent;
+}
+.panel-myheader {
+    background-color: rgba(0, 0, 0, 0.533);
+}
+
+.panel-mybody {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.panel-myfooter {
+    font-size: 10px;
+    padding: 5px 15px;
+    background-color: rgba(0, 0, 0, 0.065);
+}
+
+#blog {
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.5);
+}
