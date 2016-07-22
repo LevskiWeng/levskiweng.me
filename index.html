@@ -2,12 +2,22 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
+        <!-- Expire the cache of browser when refreshing the page -->
+        <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+        <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+        <META HTTP-EQUIV="Expires" CONTENT="0">
 		<script type="text/javascript" src="/3rd/vue/1.0.24/vue.min.js"></script>
 		<script type="text/javascript" src="/3rd/jQuery/3.0.0/jquery-3.0.0.min.js"></script>
 		<script type="text/javascript" src="/3rd/snap.svg/0.4.1/dist/snap.svg-min.js"></script>
 		<script type="text/javascript" src="/3rd/canvg/rgbcolor.js"></script>
 		<script type="text/javascript" src="/3rd/canvg/StackBlur.js"></script>
 		<script type="text/javascript" src="/3rd/canvg/canvg.js"></script>
+        <script type="text/javascript" src="3rd/markdown-it/6.0.1/markdown-it.min.js"></script>
+        <script type="text/javascript" src="3rd/markdown-it-sub/1.0.0/markdown-it-sub.min.js"></script>
+        <script type="text/javascript" src="3rd/markdown-it-sup/1.0.0/markdown-it-sup.min.js"></script>
+        <!-- Code highlight library -->
+        <link rel="stylesheet" href="3rd/highlight/9.2.0/styles/atelier-cave-light.css" />
+        <script src="3rd/highlight/9.2.0/highlight.pack.js"></script>
 
 		<script type="text/javascript" src="/js/main.js"></script>
 
@@ -27,14 +37,180 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
 					<div class="panel panel-info panel-mydefault">
-						<div class="panel-heading panel-myheader">Personal summary of 2015</div>
 						<div class="panel-body panel-mybody">
-						Panel content
+							<a href="blog/2016/20160209-personal-summary-of-2015.md"></a>
 						</div>
 						<div class="panel-footer panel-myfooter">Date: Feb 9, 2016 | Tags: summary</div>
 					</div>
+					<!-- 2015 -->
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2015/20151005-are-robots-with-human-sense-a-new-species.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Oct 5, 2015 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2015/20150512-living-strategy.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: May 12, 2015 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2015/20150502-under-the-dome.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: May 02, 2015 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2015/20150427-keeping-your-mouth-shut-or-declaring-your-opinion.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Apr 27, 2015 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2015/20150118-what-brings-about-the-long-lasting-success-in-the-market.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Jan 18, 2015 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2015/20150117-personal-summary-of-2014.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Jan 17, 2015 | Tags: summary</div>
+					</div>
+					<!-- 2014 -->
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20141101-no-pay-no-gain.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Nov 1, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140906-be-a-chief-thinking-officer.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Sep 6, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140628-why-are-we-so-eager-to-upgrade-the-mobile-app.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Jun 28, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140614-it's-not-smart-to-show-off-how-smart-you-are-when-you're-sharing-knowledge.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Jun 14, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140525-the-distance-between-a-good-question-and-a-silly-one.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: May 25, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140510-don't-blame-others-for-your-own-decision.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: May 10, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140420-who-will-rule-your-living-room.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Apr 20, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140408-burn-to-ashes.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Apr 8, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140206-online-to-offline.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Feb 6, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140119-from-tabphone-to-smart-watch.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Jan 19, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140111-do-you-believe-what-the-experts-say.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Jan 11, 2014 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2014/20140101-will-the-metro-style-evolve.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Jan 1, 2014 | Tags: thinking</div>
+					</div>
+					<!-- 2013 -->
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2013/20131228-hiding-in-the-crowd.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Dec 28, 2013 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2013/20131214-could-the-truth-be-expressed-subjectively.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Dec 14, 2013 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2013/20131201-is-chinese-medicine-dying.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Dec 1, 2013 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2013/20131128-a-special-salute-to-mr-mcmurphy.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Nov 28, 2013 | Tags: thinking</div>
+					</div>
+					
+					<div class="panel panel-info panel-mydefault">
+						<div class="panel-body panel-mybody">
+							<a href="blog/2013/20131127-please-don't-misuse-the-word-user-friendly.md"></a>
+						</div>
+						<div class="panel-footer panel-myfooter">Date: Nov 27, 2013 | Tags: thinking</div>
+					</div>
+					
 				</div>
 			</div>
 		</div>
+		<div class="footer">
+        <div class="container">
+            <p class="text-muted">All rights reserved | Powered by FreeBSD | <a href="mailto:levskiweng_AT_gmail.com">Contact Me</a></p>
+        </div>
+    </div>
 	</body>
 </html>
