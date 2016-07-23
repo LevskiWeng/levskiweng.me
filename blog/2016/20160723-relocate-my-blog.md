@@ -1,6 +1,6 @@
 # Blog host relocation
 
-I'm tired of the spam comments of my previous WordPress blog system. What I want is a simple, clean static blog system, and no more comments.
+I'm tired of the spam comments of my previous WordPress blog system. What I want is a simple-clean-static blog system, and no more comments.
 
 I raised this idea at the beginning of this year, but I'm too busy and too lazy to relocate my blog. Finally, I find a cheap VM hosting site called [vultr.com](http://www.vultr.com/?ref=6932836-3B) and I move my entire blog to the new host.
 
