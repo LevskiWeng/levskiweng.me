@@ -12,14 +12,14 @@ Some people think the design of the earpod is terrible because:
 1. You have to charge them on occasions
 2. Easy to drop, not friendly to sporters
 
-Of cause, these bad aspect cannot be neglected, but we have to admit, as a product of engineering, every feature comes with a trade off. So I think John Ive chooses the design because it can:
+Of course, these bad aspect cannot be neglected, but we have to admit, as a product, every feature comes with a trade off. So I think John Ive chooses the design because it can:
 
 1. simplify the usage of accessories
 2. improve the playback quality of the music
 3. save the inner space of the phone
 
-It seems that the earpod is merely a small step forward, but I think it's a giant step of the **player** market.
+It seems that the earpod is merely a tiny step forward, but I think it's a giant step of the **player** market.
 
-Looking forward the iPhone 8.
+Looking forward to the iPhone 8.
 
 :-)
